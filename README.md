@@ -13,6 +13,12 @@ A minimal monorepo setup containing a sample Next.js web application under `apps
 
   ```bash
   npm install -g pnpm
+  ```
+
+  or with standalone (POSIX)
+  ```
+  curl -fsSL https://get.pnpm.io/install.sh | sh -
+  ```
 
 
 ## Getting Started

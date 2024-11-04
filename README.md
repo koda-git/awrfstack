@@ -24,7 +24,7 @@ A minimal monorepo setup containing a sample Next.js web application under `apps
 
 ## Getting Started
 ```bash
-git clone <repository-url>
+git clone <https://github.com/koda-git/awrfstack>
 cd awrfstack
 ```
 

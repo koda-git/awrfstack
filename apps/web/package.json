@@ -1,24 +1,21 @@
 {
-  "name": "web",
+  "name": "testing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "pnpm lint",
-    "format": "pnpm format"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "15.0.2",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "19.0.0-rc-02c0e824-20241028",
+    "react-dom": "19.0.0-rc-02c0e824-20241028"
   },
   "devDependencies": {
-    "@types/node": "^22.8.7",
-    "@types/react": "^18.3.12",
-    "@types/react-dom": "^18.3.1",
-    "eslint-config-next": "15.0.2",
-    "typescript": "^5.6.3"
+    "@types/node": "22.8.7",
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
   }
 }

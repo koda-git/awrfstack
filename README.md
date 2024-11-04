@@ -35,7 +35,7 @@ pnpm install
 ```
 
 ## Run the sample webserver
-Navigate to the web folder (Sample webapp) and run the nextJS app
+Navigate to the web folder  and run the sample nextJS app
 ```bash
 cd apps/web
 pnpm dev

@@ -1,3 +1,6 @@
+[workspace]
+members = ["crates/*"] #Includes all crates in the crates directory
+
 [package]
 name = "awrfstack"
 version = "0.1.0"

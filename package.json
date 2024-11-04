@@ -2,10 +2,5 @@
   "name": "awrfstack",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "pnpm --filter ./apps/web dev",
-    "build": "pnpm --filter ./apps/web build",
-    "start": "pnpm --filter ./apps/web start",
-    "lint": "pnpm --filter ./apps/web lint"
-  }
+  "scripts": {}
 }

@@ -2,7 +2,7 @@
 
 # awrfstack
 
-A minimal monorepo setup containing a sample Next.js web application under `apps/web`.\\
+A minimal monorepo setup containing a sample Next.js web application under `apps/web`.\n
 You are also able to put your rust crates under `crates`
 
 

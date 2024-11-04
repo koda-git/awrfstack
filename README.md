@@ -44,6 +44,8 @@ cd apps/web
 pnpm dev
 ```
 
+## Please check the README.md file in apps/web
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 

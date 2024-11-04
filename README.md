@@ -11,13 +11,20 @@ A minimal monorepo setup containing a sample Next.js web application under `apps
 
   Install `pnpm` globally if not already installed:
 
+  if you have npm already installed
   ```bash
   npm install -g pnpm
+  ```
+
+  or with standalone (POSIX)
+  ```
+  curl -fsSL https://get.pnpm.io/install.sh | sh -
+  ```
 
 
 ## Getting Started
 ```bash
-git clone <repository-url>
+git clone <https://github.com/koda-git/awrfstack>
 cd awrfstack
 ```
 
@@ -28,7 +35,7 @@ pnpm install
 ```
 
 ## Run the sample webserver
-Navigate to the web folder (Sample webapp) and run the nextJS app
+Navigate to the web folder  and run the sample nextJS app
 ```bash
 cd apps/web
 pnpm dev

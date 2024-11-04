@@ -11,6 +11,7 @@ A minimal monorepo setup containing a sample Next.js web application under `apps
 
   Install `pnpm` globally if not already installed:
 
+  if you have npm already installed
   ```bash
   npm install -g pnpm
   ```

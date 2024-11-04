@@ -40,7 +40,7 @@ The `src` directory contains all the source code, divided into `app` and `compon
   - **`favicon.ico`**: Icon for the browser tab.
   - **`globals.css`**: Contains global CSS rules applied across the entire application.
   - **`layout.tsx`**: Defines the main layout and wraps around page components.
-  - **`page.tsx`**: The root page component, typically rendering the home or main content.
+  - **`page.tsx`**: The root page component, We want to modularize the website by declaring the exported components in here.
   
 - **`components/`**: Contains reusable components for modular code.
   - **`HomePage.tsx`**: Main component used on the home page, can include sections or specific features.

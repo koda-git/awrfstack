@@ -14,7 +14,6 @@ A minimal monorepo setup containing a sample Next.js web application under `apps
   ```bash
   npm install -g pnpm
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Getting Started
 ```bash
@@ -34,6 +33,9 @@ Navigate to the web folder (Sample webapp) and run the nextJS app
 cd apps/web
 pnpm dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
